@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jeronimo Barbosa</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Jeronimo Barbosa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Jeronimo Barbosa</copyright>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>StateSynth</title>
+      <link>/project/statesynth/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/statesynth/</guid>
+      <description>StateSynth is an accessible music authoring system where the keyboard becomes a programming primitive. As a result, musicians can easily, for example: use intervals to dynamically control the delay time of a sinusoidal oscillator; or yet play specific chords to switch between different synthesizer presets.
+StateSynth uses ZenStates as specification model:
+  </description>
+    </item>
+    
+    <item>
+      <title>Steal &amp; Repeat Machine</title>
+      <link>/project/steal-and-repeat/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/steal-and-repeat/</guid>
+      <description>The Steal &amp;amp; Repeat Machine is live looper based on direct manipulation of sound. A preliminary example of the software, implemented in C++/Openframeworks, is presented below:
+  </description>
+    </item>
+    
+    <item>
+      <title>Insertions into Mediatic Circuits</title>
+      <link>/project/insertions/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/insertions/</guid>
+      <description>1) There are in society certain mecanisms for circulation (circuits);
+2) These circuits clearly reflect the ideology of the producer, but at the same time it is possible they could receive insertions while they circulate;
+3) This always happen whenever someone starts it.
+Cildo Meireles, 1970.
+ &amp;ldquo;Insertions into Mediatic Circuits&amp;rdquo; were a series of short media interventions (insertions) where social networks&amp;rsquo; live video streams were copied, modified, and finally streamed back to social networks in realtime, while the original live stream still occurred.</description>
+    </item>
+    
+    <item>
+      <title>29 de Abril</title>
+      <link>/project/29-de-abril/</link>
+      <pubDate>Sun, 27 Dec 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/project/29-de-abril/</guid>
+      <description>In April 29th 2015, in Curitiba, Brazil, more than 200 people were hurt (mostly civilian teachers) as a result from a brutal action from the police forces, following direct orders from Paraná state&amp;rsquo;s government.
+The institutional violence made headlines in Brazilian and international media. Teachers were protesting against reforms on their social security system when the police attacked with bombs and plastic bullets. More than 15 policemen refused to attack and were arrested, threatened with dismissal.</description>
+    </item>
+    
+    <item>
+      <title>Batebit</title>
+      <link>/project/batebit/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 -0400</pubDate>
+      
+      <guid>/project/batebit/</guid>
+      <description>Batebit started as a research project focused on designing music performance interfaces for popular music communities in the Northeastern Brazil—a collaboration between João Tragtenberg, Filipe Calegario, and myself. I proudly contributed to Batebit between 2013 and 2015. Since then, Batebit follows active under the inspiring work of João and Filipe.
+For more information, check Batebit website:</description>
+    </item>
+    
+    <item>
+      <title>Illusio Looping Machine</title>
+      <link>/project/illusio/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 -0400</pubDate>
+      
+      <guid>/project/illusio/</guid>
+      <description>Illusio is a live looping tool that enables musicians to sketch their own loop controls in a multitouch table. Illusio has received the support of Rumos Itaú Cultural Arte Cibernética 2009, and was shortlisted in the Interaction Design Association (IxDA) Interaction Awards 2013.
+  The Illusio was prototyped in Processing and Openframeworks, in 2011. More information can be found on my old website.
+Some video material presenting the Illusio and its motivation:     </description>
+    </item>
+    
+    <item>
+      <title>Executable memories (Paris.py)</title>
+      <link>/project/paris-py/</link>
+      <pubDate>Thu, 27 Dec 2012 00:00:00 -0500</pubDate>
+      
+      <guid>/project/paris-py/</guid>
+      <description>Executable Memories (Paris.py) are 18 personal poems written in Python programming language, documenting people, places, and moments lived during a six-months trip in 2012. These code-poems are personal memories intended to be run in obsolete computers.
+from Paris import * &#39;&#39;&#39; INTRODUCTION &#39;&#39;&#39; a_kid with silicon_skin() and liquid_crystal_eyes(): came(to_me_last_night) she wept_blood() and offered_me(sweet_coltan_roses) while holding(a_twisted_pair_leash) in her_left_hand: plugged(into_the_brain, of_a_cerberus_shaped_cyborg) which_barked_in_binary_code(&amp;quot;&amp;quot;&amp;quot;how could you forget again what was invented and what was discovered?</description>
+    </item>
+    
+    <item>
+      <title>Ada v2.0b</title>
+      <link>/project/ada/</link>
+      <pubDate>Tue, 27 Apr 2010 00:00:00 -0400</pubDate>
+      
+      <guid>/project/ada/</guid>
+      <description>Ada v2.0b is a Python-written programmer machine that live codes sound in Pure Data. Its performances are based on the activity of its own kernel. Ada has been presented in Live Cinema Festival 2010 and on GLI.TC/H 2010. More information in my old website.
+   Ada was developed using Pyata—a Python module I wrote back in 2009 to allow people to dynamically create and edit Pure Data patchs via dynamic patching.</description>
+    </item>
+    
+    <item>
+      <title>LaboCA</title>
+      <link>/project/laboca/</link>
+      <pubDate>Tue, 27 Apr 2010 00:00:00 -0400</pubDate>
+      
+      <guid>/project/laboca/</guid>
+      <description>The Laboratório de Computação e Arte (LaboCA) was a series of guerrilla workshops introducing artists to creative computational practice in Brazil. LaboCAs resulted from the collaboration between Jarbas Jácome, Ricardo Brazileiro, Filipe Calegario, myself, and many other friends and collaborators. I proudly contributed to LaboCA from 2010 to 2012, when LaboCA finished its activities.
+For more information, check LaboCA&amp;rsquo;s old website and its mailing list:</description>
+    </item>
+    
+    <item>
+      <title>Marvim Gainsbug</title>
+      <link>/project/marvim-gainsbug/</link>
+      <pubDate>Mon, 27 Apr 2009 00:00:00 -0400</pubDate>
+      
+      <guid>/project/marvim-gainsbug/</guid>
+      <description>Marvim Gainsbug is a chatbot that gathers social network messages to improvise live music, with lyrics and harmony. It was developed in collaboration with Filipe Calegario, in 2009.
+Marvim has received an honorable mention in the FILE PRIX LUX 2010, awarded the Prêmio Conexões tecnológicas, and was presented in several venues in Brazil.
+More information in my old website.
+     </description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous</title>
+      <link>/project/other/</link>
+      <pubDate>Thu, 27 Mar 2008 00:00:00 -0400</pubDate>
+      
+      <guid>/project/other/</guid>
+      <description>I&amp;rsquo;ve worked in many other new media projects that are not presented in the main page. Some of these projects are listed here:
+ Beberibe (2014), with multiple collaborators;
+ Natal Presente de Luz (2013), with Mozart Santos and Simone Mendes;
+ Livro dos Softwares Inúteis (2012);
+ Mundo ao Redor (2012), with Adriana Carneiro, Ricardo Brazileiro, and others;
+ Eita, Porra! (2010), with multiple collaborators;
+ Projeto Soma (2009), with Marco Bonachela, Hugo Coutinho, e Henrique Lima;</description>
+    </item>
+    
+  </channel>
+</rss>

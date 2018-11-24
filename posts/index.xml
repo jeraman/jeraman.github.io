@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jeronimo Barbosa</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Jeronimo Barbosa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Jeronimo Barbosa</copyright>
+    <lastBuildDate>Wed, 21 Nov 2018 11:57:04 -0500</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Wed, 21 Nov 2018 11:57:04 -0500</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>Hi. I&amp;rsquo;m Jeronimo. I&amp;rsquo;m a PhD candidate on Music Technology at McGill University. I work at the Input Devices and Music Interaction Laboratory, under the supervision of Marcelo M. Wanderley and Stéphane Huot.
+I research Human-Computer Interaction (HCI) under artistic creative practice. In particular, my research investigates: (1) designing novel interface technology for artistic creative practice; and (2) understanding how these artists incorporate and express themselves through these tools. My research practice is interdisciplinary, also involving areas such as Computer Music, New Media Art, Interaction Design, and Critical design.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Interfaces for Musical Expression on Jeronimo Barbosa</title>
+    <link>/tags/new-interfaces-for-musical-expression/</link>
+    <description>Recent content in New Interfaces for Musical Expression on Jeronimo Barbosa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Jeronimo Barbosa</copyright>
+    <lastBuildDate>Tue, 21 Nov 2017 15:58:26 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/new-interfaces-for-musical-expression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploring Playfulness in NIME Design: The Case of Live Looping Tools</title>
+      <link>/publication/playfulness-2017/</link>
+      <pubDate>Tue, 21 Nov 2017 15:58:26 -0500</pubDate>
+      
+      <guid>/publication/playfulness-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing DMIs for Popular Music in the Brazilian Northeast: Lessons Learned</title>
+      <link>/publication/batebit-2015/</link>
+      <pubDate>Wed, 21 Oct 2015 15:58:26 -0500</pubDate>
+      
+      <guid>/publication/batebit-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Considering Audience&#39;s View Towards an Evaluation Methodology for Digital Musical Instruments</title>
+      <link>/publication/nime-2012/</link>
+      <pubDate>Wed, 21 Nov 2012 15:58:26 -0500</pubDate>
+      
+      <guid>/publication/nime-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an evaluation methodology for digital music instruments considering performer’s view: a case study</title>
+      <link>/publication/sbcm-2011/</link>
+      <pubDate>Mon, 21 Nov 2011 15:58:26 -0500</pubDate>
+      
+      <guid>/publication/sbcm-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

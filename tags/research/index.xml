@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research on Jeronimo Barbosa</title>
+    <link>/tags/research/</link>
+    <description>Recent content in research on Jeronimo Barbosa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Jeronimo Barbosa</copyright>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>StateSynth</title>
+      <link>/project/statesynth/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/statesynth/</guid>
+      <description>StateSynth is an accessible music authoring system where the keyboard becomes a programming primitive. As a result, musicians can easily, for example: use intervals to dynamically control the delay time of a sinusoidal oscillator; or yet play specific chords to switch between different synthesizer presets.
+StateSynth uses ZenStates as specification model:
+  </description>
+    </item>
+    
+    <item>
+      <title>Steal &amp; Repeat Machine</title>
+      <link>/project/steal-and-repeat/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/steal-and-repeat/</guid>
+      <description>The Steal &amp;amp; Repeat Machine is live looper based on direct manipulation of sound. A preliminary example of the software, implemented in C++/Openframeworks, is presented below:
+  </description>
+    </item>
+    
+    <item>
+      <title>Batebit</title>
+      <link>/project/batebit/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 -0400</pubDate>
+      
+      <guid>/project/batebit/</guid>
+      <description>Batebit started as a research project focused on designing music performance interfaces for popular music communities in the Northeastern Brazil—a collaboration between João Tragtenberg, Filipe Calegario, and myself. I proudly contributed to Batebit between 2013 and 2015. Since then, Batebit follows active under the inspiring work of João and Filipe.
+For more information, check Batebit website:</description>
+    </item>
+    
+    <item>
+      <title>Illusio Looping Machine</title>
+      <link>/project/illusio/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 -0400</pubDate>
+      
+      <guid>/project/illusio/</guid>
+      <description>Illusio is a live looping tool that enables musicians to sketch their own loop controls in a multitouch table. Illusio has received the support of Rumos Itaú Cultural Arte Cibernética 2009, and was shortlisted in the Interaction Design Association (IxDA) Interaction Awards 2013.
+  The Illusio was prototyped in Processing and Openframeworks, in 2011. More information can be found on my old website.
+Some video material presenting the Illusio and its motivation:     </description>
+    </item>
+    
+  </channel>
+</rss>

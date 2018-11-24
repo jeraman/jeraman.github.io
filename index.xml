@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeronimo Barbosa on Jeronimo Barbosa</title>
+    <link>/</link>
+    <description>Recent content in Jeronimo Barbosa on Jeronimo Barbosa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Jeronimo Barbosa</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ZenStates: Easy-to-Understand Yet Expressive Specifications for Creative Interactive Environments</title>
+      <link>/publication/zenstates-2018/</link>
+      <pubDate>Wed, 21 Nov 2018 15:58:26 -0500</pubDate>
+      
+      <guid>/publication/zenstates-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Wed, 21 Nov 2018 11:57:04 -0500</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>
+
+&lt;h1 id=&#34;hi-i-m-jeronimo&#34;&gt;Hi. I&amp;rsquo;m Jeronimo.&lt;/h1&gt;
+
+&lt;p&gt;I&amp;rsquo;m a PhD candidate on Music Technology at &lt;a href=&#34;https://mcgill.ca&#34; target=&#34;_blank&#34;&gt;McGill University&lt;/a&gt;. I work at the &lt;a href=&#34;http://www-new.idmil.org/&#34; target=&#34;_blank&#34;&gt;Input Devices and Music Interaction Laboratory&lt;/a&gt;, under the supervision of &lt;a href=&#34;https://www.mcgill.ca/music/marcelo-m-wanderley&#34; target=&#34;_blank&#34;&gt;Marcelo M. Wanderley&lt;/a&gt; and &lt;a href=&#34;http://loki.lille.inria.fr/~huot/&#34; target=&#34;_blank&#34;&gt;Stéphane Huot&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I research Human-Computer Interaction (HCI) under artistic creative practice. In particular, my research investigates: (1) designing novel interface technology for artistic creative practice; and  (2) understanding how these artists incorporate and express themselves through these tools. My research practice is interdisciplinary, also involving areas such as Computer Music, New Media Art, Interaction Design, and Critical design. I&amp;rsquo;m also a new media artist, and my work has received some relevant awards in Brazil, such as the &lt;a href=&#34;http://enciclopedia.itaucultural.org.br/evento602473/9o-premio-sergio-motta&#34; target=&#34;_blank&#34;&gt;Prêmio Sergio Motta de Arte e Tecnologia&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Before starting my PhD, I was an Assistant Professor on Computer Science at &lt;a href=&#34;http://www.ufrpe.br/&#34; target=&#34;_blank&#34;&gt;Universidade Federal Rural de Pernambuco—Unidade Acadêmica de Garanhuns&lt;/a&gt; (2013). I have also contributed to the &lt;a href=&#34;https://olaboca.wordpress.com/&#34; target=&#34;_blank&#34;&gt;Laboratorio de Computação e Artes, LaboCA&lt;/a&gt;, and the &lt;a href=&#34;http://batebit.cc&#34; target=&#34;_blank&#34;&gt;Batebit&lt;/a&gt; (2010-2014). I have a background Computer Science, with both BSc (2005-2009) and MSc (2011-2013) at the &lt;a href=&#34;http://www.cin.ufpe.br&#34; target=&#34;_blank&#34;&gt;Centro de Informática, Universidade Federal de Pernambuco&lt;/a&gt;, under the supervision of &lt;a href=&#34;http://www.cin.ufpe.br/~glr/&#34; target=&#34;_blank&#34;&gt;Geber Ramalho&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m from Natal, Notheastern Brazil.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>StateSynth</title>
+      <link>/project/statesynth/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/statesynth/</guid>
+      <description>&lt;p&gt;StateSynth is an accessible music authoring system where the keyboard becomes a programming primitive. As a result, musicians can easily, for example: use intervals to dynamically control the delay time of a sinusoidal oscillator; or yet play specific chords to switch between different synthesizer presets.&lt;/p&gt;
+
+&lt;p&gt;StateSynth uses &lt;em&gt;ZenStates&lt;/em&gt; as specification model:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/gpOTCRI_Ifo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Steal &amp; Repeat Machine</title>
+      <link>/project/steal-and-repeat/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/steal-and-repeat/</guid>
+      <description>&lt;p&gt;The Steal &amp;amp; Repeat Machine is live looper based on direct manipulation of sound. A preliminary example of the software, implemented in C++/Openframeworks, is presented below:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/bEVD7BRKZPI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring Playfulness in NIME Design: The Case of Live Looping Tools</title>
+      <link>/publication/playfulness-2017/</link>
+      <pubDate>Tue, 21 Nov 2017 15:58:26 -0500</pubDate>
+      
+      <guid>/publication/playfulness-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insertions into Mediatic Circuits</title>
+      <link>/project/insertions/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/insertions/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;1) There are in society certain mecanisms for circulation (&lt;em&gt;circuits&lt;/em&gt;);&lt;/p&gt;
+
+&lt;p&gt;2) These circuits clearly reflect the ideology of the producer, but at the same time it is possible they could receive &lt;em&gt;insertions&lt;/em&gt; while they circulate;&lt;/p&gt;
+
+&lt;p&gt;3) This always happen whenever someone starts it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cildo_Meireles&#34; target=&#34;_blank&#34;&gt;Cildo Meireles&lt;/a&gt;, 1970.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--When Youtube and Facebook Live become _circuits_, what is an _insertion_?--&gt;
+
+&lt;p&gt;&amp;ldquo;Insertions into Mediatic Circuits&amp;rdquo; were a series of short media interventions (insertions) where social networks&amp;rsquo; live video streams were copied, modified, and finally streamed back to social networks in realtime, while the original live stream still occurred. The new stream was almost identical to the original one, except for the insertion itself.&lt;/p&gt;
+
+&lt;p&gt;Collaborators and I have put together some software tools to work with such insertions. More information is available on &lt;a href=&#34;https://github.com/insertions&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/188303561&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/1PgRtQsIqBQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/PiFNaQoV3cQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;workshops&#34;&gt;Workshops&lt;/h2&gt;
+
+&lt;p&gt;I also carried out two workshops to introduce artists to these insertion tools:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/jeraman/insertions/tree/master/workshop/1%20-%20speculative%20life&#34; target=&#34;_blank&#34;&gt;13 April 2017&lt;/a&gt;, at the &lt;a href=&#34;http://www.speculativelife.com/event/tools-for-activism-%E2%80%8Binsertions-into-mediatic-circuits/&#34; target=&#34;_blank&#34;&gt;Speculative Life Cluster&lt;/a&gt;, &lt;a href=&#34;http://concordia.ca&#34; target=&#34;_blank&#34;&gt;Concordia University&lt;/a&gt;;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/insertions/eastern-bloc-workshop&#34; target=&#34;_blank&#34;&gt;17 and 24 March 2018&lt;/a&gt;, at the &lt;a href=&#34;https://easternbloc.ca/en/lab/workshops/insertions-into-mediatic-circuits&#34; target=&#34;_blank&#34;&gt;Eastern Bloc&lt;/a&gt; (along with my collaborator &lt;a href=&#34;http://vigliensoni.com&#34; target=&#34;_blank&#34;&gt;Gabriel Vigliensoni&lt;/a&gt;).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;./workshop.jpeg&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>29 de Abril</title>
+      <link>/project/29-de-abril/</link>
+      <pubDate>Sun, 27 Dec 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/project/29-de-abril/</guid>
+      <description>&lt;p&gt;In April 29th 2015, in Curitiba, Brazil, more than 200 people were hurt (mostly civilian teachers) as a result from a brutal action from the police forces, following direct orders from Paraná state&amp;rsquo;s government.&lt;/p&gt;
+
+&lt;p&gt;The institutional violence made headlines in Brazilian and international media. Teachers were protesting against reforms on their social security system when the police attacked with bombs and plastic bullets. More than 15 policemen refused to attack and were arrested, threatened with dismissal. A depressing plot, ready to be used by violent games such as &amp;ldquo;Call of Duty&amp;rdquo; and others.&lt;/p&gt;
+
+&lt;p&gt;Starting with this provocation, working at the same time as a melancholic portrait in times of austerity, manifestations, and steady rise of conservatism in Brazil, the project &amp;ldquo;29 de Abril&amp;rdquo; was born.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/jdmEU0bXjew&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;29 de Abril&amp;rdquo; is a 3D First Person Shooter, in which you play a policeman in charge of repressing teachers - under threats of arrest and dismissal in case of refuse. The action takes place during the last 30 seconds that precedes the approval of the changes in the social security system, voted a few meters away, inside Parana&amp;rsquo;s legislative assembly. The hostile environment was rebuilt based on reports of the day and 3D models available on Internet.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;29 de Abril&amp;rdquo; is an &lt;a href=&#34;https://github.com/jeraman/29-de-abril&#34; target=&#34;_blank&#34;&gt;open-source&lt;/a&gt; non-profit artistic work. It is dedicated to all people hurt and arrested (both teachers and policemen) in that cloudy afternoon in Curitiba.&lt;/p&gt;
+
+&lt;p&gt;More information—including full credits and download—is available on my &lt;a href=&#34;https://jeraman.wordpress.com/2016/04/06/29-de-abril/&#34; target=&#34;_blank&#34;&gt;old website&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/9s-wZCUAvL4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>What does “Evaluation” mean for the NIME community?</title>
+      <link>/publication/evaluation-2015/</link>
+      <pubDate>Sat, 21 Nov 2015 15:58:26 -0500</pubDate>
+      
+      <guid>/publication/evaluation-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing DMIs for Popular Music in the Brazilian Northeast: Lessons Learned</title>
+      <link>/publication/batebit-2015/</link>
+      <pubDate>Wed, 21 Oct 2015 15:58:26 -0500</pubDate>
+      
+      <guid>/publication/batebit-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Batebit</title>
+      <link>/project/batebit/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 -0400</pubDate>
+      
+      <guid>/project/batebit/</guid>
+      <description>&lt;p&gt;Batebit started as a research project focused on designing music performance interfaces for popular music communities in the Northeastern Brazil—a collaboration between &lt;a href=&#34;https://www.joaot.net&#34; target=&#34;_blank&#34;&gt;João Tragtenberg&lt;/a&gt;, &lt;a href=&#34;http://filipecalegario.net&#34; target=&#34;_blank&#34;&gt;Filipe Calegario&lt;/a&gt;, and myself. I proudly contributed to Batebit between 2013 and 2015. Since then, Batebit follows active under the inspiring work of João and Filipe.&lt;/p&gt;
+
+&lt;p&gt;For more information, check &lt;a href=&#34;http://batebit.cc&#34; target=&#34;_blank&#34;&gt;Batebit website&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://batebit.cc&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;./site.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Illusio: A Drawing-Based Digital Music Instrument</title>
+      <link>/publication/nime-2013/</link>
+      <pubDate>Thu, 21 Nov 2013 15:58:26 -0500</pubDate>
+      
+      <guid>/publication/nime-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illusio Looping Machine</title>
+      <link>/project/illusio/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 -0400</pubDate>
+      
+      <guid>/project/illusio/</guid>
+      <description>&lt;p&gt;Illusio is a live looping tool that enables musicians to sketch their own loop controls in a multitouch table. Illusio has received the support of &lt;a href=&#34;https://rumositaucultural.wordpress.com/2009/09/05/abram-alas-para-os-selecionados-do-rumos-arte-cibernetica/&#34; target=&#34;_blank&#34;&gt;Rumos Itaú Cultural Arte Cibernética 2009&lt;/a&gt;, and was shortlisted in the &lt;a href=&#34;http://awards.ixda.org/2013-interaction-awards/&#34; target=&#34;_blank&#34;&gt;Interaction Design Association (IxDA) Interaction Awards 2013&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/25641970&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;The Illusio was prototyped in Processing and Openframeworks, in 2011. More information can be found on my &lt;a href=&#34;https://jeraman.info/illusio/&#34; target=&#34;_blank&#34;&gt;old website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Some video material presenting the Illusio and its motivation: &lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/25641586&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/2Q-MxMoxLTA?time_continue=2443&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Executable memories (Paris.py)</title>
+      <link>/project/paris-py/</link>
+      <pubDate>Thu, 27 Dec 2012 00:00:00 -0500</pubDate>
+      
+      <guid>/project/paris-py/</guid>
+      <description>&lt;p&gt;Executable Memories (Paris.py) are 18 personal poems written in Python programming language, documenting people, places, and moments lived during a six-months trip in 2012. These code-poems are personal memories intended to be run in obsolete computers.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-Python&#34;&gt;from Paris import *
+
+&#39;&#39;&#39;
+INTRODUCTION
+&#39;&#39;&#39;
+
+a_kid
+with silicon_skin() and liquid_crystal_eyes():
+    came(to_me_last_night)
+she
+wept_blood() and offered_me(sweet_coltan_roses)
+while holding(a_twisted_pair_leash) in her_left_hand:
+    plugged(into_the_brain, of_a_cerberus_shaped_cyborg)
+which_barked_in_binary_code(&amp;quot;&amp;quot;&amp;quot;how could you forget again what was invented and what was discovered?
+    how could you live again the lies you once created yourselves?
+    convenience?
+    madness?
+    loneliness?
+    from my altar of axioms and woes,
+    i shout in vain my mathematically proofed limitations:
+    Ave Godel! Turing! Church!
+    but deaf in your domes you confuse
+    logos with trademarked logos,
+    pathos with data,
+    ethos with unequivocal logic -
+    perfect, objective, unilateral,
+    just like the souls of those who build the day of tomorrow
+    by perpetuating spectacles
+    through new obsolete gadgets.
+    but
+    where does touching dwell?
+    where does simplicity dwell? and slowness? what about poetry?
+    where does what sweats and cries and shits and makes love and feels pain dwell?&amp;quot;&amp;quot;&amp;quot;)    
+
+gone_in_the_dark(kid_and_creature)
+i_felt (the_sweat in my_face and a_question in my_mouth)
+a_question = &amp;quot;dear friends, what is the name of this book?&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The 18 poems can be found on Github:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/jeraman/o-livro-dos-softwares-inuteis&#34; target=&#34;_blank&#34;&gt;https://github.com/jeraman/o-livro-dos-softwares-inuteis&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;More information available on my &lt;a href=&#34;https://jeraman.wordpress.com/2013/08/02/o-livro-dos-softwares-inuteis/&#34; target=&#34;_blank&#34;&gt;old website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./featuredd.jpg&#34; alt=&#34;Example image&#34; /&gt;
+&lt;img src=&#34;./featuredbeta.jpg&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Considering Audience&#39;s View Towards an Evaluation Methodology for Digital Musical Instruments</title>
+      <link>/publication/nime-2012/</link>
+      <pubDate>Wed, 21 Nov 2012 15:58:26 -0500</pubDate>
+      
+      <guid>/publication/nime-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an evaluation methodology for digital music instruments considering performer’s view: a case study</title>
+      <link>/publication/sbcm-2011/</link>
+      <pubDate>Mon, 21 Nov 2011 15:58:26 -0500</pubDate>
+      
+      <guid>/publication/sbcm-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

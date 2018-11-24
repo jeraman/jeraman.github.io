@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>other on Jeronimo Barbosa</title>
+    <link>/tags/other/</link>
+    <description>Recent content in other on Jeronimo Barbosa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. Jeronimo Barbosa</copyright>
+    <lastBuildDate>Tue, 27 Apr 2010 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LaboCA</title>
+      <link>/project/laboca/</link>
+      <pubDate>Tue, 27 Apr 2010 00:00:00 -0400</pubDate>
+      
+      <guid>/project/laboca/</guid>
+      <description>The Laboratório de Computação e Arte (LaboCA) was a series of guerrilla workshops introducing artists to creative computational practice in Brazil. LaboCAs resulted from the collaboration between Jarbas Jácome, Ricardo Brazileiro, Filipe Calegario, myself, and many other friends and collaborators. I proudly contributed to LaboCA from 2010 to 2012, when LaboCA finished its activities.
+For more information, check LaboCA&amp;rsquo;s old website and its mailing list:</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous</title>
+      <link>/project/other/</link>
+      <pubDate>Thu, 27 Mar 2008 00:00:00 -0400</pubDate>
+      
+      <guid>/project/other/</guid>
+      <description>I&amp;rsquo;ve worked in many other new media projects that are not presented in the main page. Some of these projects are listed here:
+ Beberibe (2014), with multiple collaborators;
+ Natal Presente de Luz (2013), with Mozart Santos and Simone Mendes;
+ Livro dos Softwares Inúteis (2012);
+ Mundo ao Redor (2012), with Adriana Carneiro, Ricardo Brazileiro, and others;
+ Eita, Porra! (2010), with multiple collaborators;
+ Projeto Soma (2009), with Marco Bonachela, Hugo Coutinho, e Henrique Lima;</description>
+    </item>
+    
+  </channel>
+</rss>
