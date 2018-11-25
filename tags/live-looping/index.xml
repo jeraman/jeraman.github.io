@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Live Looping on Jeronimo Barbosa</title>
+    <title>Live looping on Jeronimo Barbosa</title>
     <link>/tags/live-looping/</link>
-    <description>Recent content in Live Looping on Jeronimo Barbosa</description>
+    <description>Recent content in Live looping on Jeronimo Barbosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018. Jeronimo Barbosa</copyright>
-    <lastBuildDate>Tue, 21 Nov 2017 15:58:26 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2013 15:58:26 -0500</lastBuildDate>
     
 	<atom:link href="/tags/live-looping/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Exploring Playfulness in NIME Design: The Case of Live Looping Tools</title>
-      <link>/publication/playfulness-2017/</link>
-      <pubDate>Tue, 21 Nov 2017 15:58:26 -0500</pubDate>
+      <title>Illusio: A Drawing-Based Digital Music Instrument</title>
+      <link>/publication/nime-2013/</link>
+      <pubDate>Thu, 21 Nov 2013 15:58:26 -0500</pubDate>
       
-      <guid>/publication/playfulness-2017/</guid>
+      <guid>/publication/nime-2013/</guid>
       <description></description>
     </item>
     
