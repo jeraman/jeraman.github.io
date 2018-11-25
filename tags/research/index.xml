@@ -29,8 +29,8 @@ StateSynth uses ZenStates as specification model:
       <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/steal-and-repeat/</guid>
-      <description>The Steal &amp;amp; Repeat Machine is live looper based on direct manipulation of sound. A preliminary example of the software, implemented in C++/Openframeworks, is presented below:
-  </description>
+      <description>The Steal &amp;amp; Repeat Machine is a live looping tool based on direct manipulation of sound. The software interface, implemented in C++/Openframeworks, is presented below:
+   The tablet is physically embedded inside an acrylic case equipped with an external sound card and physical controls. These physical controls enable feedback, phasing, and pitch adjustments:</description>
     </item>
     
     <item>

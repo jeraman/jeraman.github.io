@@ -63,13 +63,18 @@
       <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/steal-and-repeat/</guid>
-      <description>&lt;p&gt;The Steal &amp;amp; Repeat Machine is live looper based on direct manipulation of sound. A preliminary example of the software, implemented in C++/Openframeworks, is presented below:&lt;/p&gt;
+      <description>&lt;p&gt;The Steal &amp;amp; Repeat Machine is a live looping tool based on direct manipulation of sound. The software interface, implemented in C++/Openframeworks, is presented below:&lt;/p&gt;
 
-
+&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/bEVD7BRKZPI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;The tablet is physically embedded inside an acrylic case equipped with an external sound card and physical controls. These physical controls enable feedback, phasing, and pitch adjustments:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./plexiglass.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
