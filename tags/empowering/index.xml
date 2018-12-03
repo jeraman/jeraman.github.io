@@ -18,7 +18,7 @@
       <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/statesynth/</guid>
-      <description>StateSynth is an accessible music authoring system where the keyboard becomes a programming primitive. As a result, musicians can easily, for example: use intervals to dynamically control the delay time of a sinusoidal oscillator; or yet play specific chords to switch between different synthesizer presets.
+      <description>StateSynth is an accessible music authoring system where the keyboard becomes a central programming primitive. As a result, musicians can easily, for example: use intervals to dynamically control the delay time of a sinusoidal oscillator; or yet play specific chords to switch between different synthesizer presets.
 StateSynth uses ZenStates as specification model:
   </description>
     </item>
@@ -26,7 +26,7 @@ StateSynth uses ZenStates as specification model:
     <item>
       <title>Steal &amp; Repeat Machine</title>
       <link>/project/steal-and-repeat/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0400</pubDate>
       
       <guid>/project/steal-and-repeat/</guid>
       <description>The Steal &amp;amp; Repeat Machine is a live looping tool based on direct manipulation of sound. The software interface, implemented in C++/Openframeworks, is presented below:
@@ -40,7 +40,7 @@ StateSynth uses ZenStates as specification model:
       
       <guid>/project/illusio/</guid>
       <description>Illusio is a live looping tool that enables musicians to sketch their own loop controls in a multitouch table. Illusio has received the support of Rumos Itaú Cultural Arte Cibernética 2009, and was shortlisted in the Interaction Design Association (IxDA) Interaction Awards 2013.
-  The Illusio was prototyped in Processing and Openframeworks, in 2011. More information can be found on my old website.
+   The Illusio was prototyped in Processing and Openframeworks, in 2011. More information can be found on my old website.
 Some video material presenting the Illusio and its motivation:     </description>
     </item>
     

@@ -45,7 +45,7 @@
       <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/statesynth/</guid>
-      <description>&lt;p&gt;StateSynth is an accessible music authoring system where the keyboard becomes a programming primitive. As a result, musicians can easily, for example: use intervals to dynamically control the delay time of a sinusoidal oscillator; or yet play specific chords to switch between different synthesizer presets.&lt;/p&gt;
+      <description>&lt;p&gt;StateSynth is an accessible music authoring system where the keyboard becomes a central programming primitive. As a result, musicians can easily, for example: use intervals to dynamically control the delay time of a sinusoidal oscillator; or yet play specific chords to switch between different synthesizer presets.&lt;/p&gt;
 
 &lt;p&gt;StateSynth uses &lt;em&gt;ZenStates&lt;/em&gt; as specification model:&lt;/p&gt;
 
@@ -58,9 +58,18 @@
     </item>
     
     <item>
+      <title>Exploring Playfulness in NIME Design: The Case of Live Looping Tools</title>
+      <link>/publication/playfulness-2017/</link>
+      <pubDate>Tue, 21 Nov 2017 15:58:26 -0500</pubDate>
+      
+      <guid>/publication/playfulness-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Steal &amp; Repeat Machine</title>
       <link>/project/steal-and-repeat/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0400</pubDate>
       
       <guid>/project/steal-and-repeat/</guid>
       <description>&lt;p&gt;The Steal &amp;amp; Repeat Machine is a live looping tool based on direct manipulation of sound. The software interface, implemented in C++/Openframeworks, is presented below:&lt;/p&gt;
@@ -76,15 +85,6 @@
 
 &lt;p&gt;&lt;img src=&#34;./plexiglass.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Exploring Playfulness in NIME Design: The Case of Live Looping Tools</title>
-      <link>/publication/playfulness-2017/</link>
-      <pubDate>Tue, 21 Nov 2017 15:58:26 -0500</pubDate>
-      
-      <guid>/publication/playfulness-2017/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -227,13 +227,13 @@
       <guid>/project/illusio/</guid>
       <description>&lt;p&gt;Illusio is a live looping tool that enables musicians to sketch their own loop controls in a multitouch table. Illusio has received the support of &lt;a href=&#34;https://rumositaucultural.wordpress.com/2009/09/05/abram-alas-para-os-selecionados-do-rumos-arte-cibernetica/&#34; target=&#34;_blank&#34;&gt;Rumos Itaú Cultural Arte Cibernética 2009&lt;/a&gt;, and was shortlisted in the &lt;a href=&#34;http://awards.ixda.org/2013-interaction-awards/&#34; target=&#34;_blank&#34;&gt;Interaction Design Association (IxDA) Interaction Awards 2013&lt;/a&gt;.&lt;/p&gt;
 
-
+&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/25641970&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
-
-&lt;p&gt;The Illusio was prototyped in Processing and Openframeworks, in 2011. More information can be found on my &lt;a href=&#34;https://jeraman.info/illusio/&#34; target=&#34;_blank&#34;&gt;old website&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;
+The Illusio was prototyped in Processing and Openframeworks, in 2011. More information can be found on my &lt;a href=&#34;https://jeraman.info/illusio/&#34; target=&#34;_blank&#34;&gt;old website&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Some video material presenting the Illusio and its motivation: &lt;/p&gt;
 
