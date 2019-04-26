@@ -18,7 +18,7 @@
       <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/statesynth/</guid>
-      <description>StateSynth is an accessible music authoring system where the keyboard becomes a central programming primitive. As a result, musicians can easily, for example: use intervals to dynamically control the delay time of a sinusoidal oscillator; or yet play specific chords to switch between different synthesizer presets.
+      <description>StateSynth is a direct music authoring system where the keyboard becomes a central programming primitive. As a result, musicians can easily, for example: use intervals to dynamically control the delay time of a sinusoidal oscillator; or yet play specific chords to switch between different synthesizer presets.
 StateSynth uses ZenStates as specification model:
   </description>
     </item>
