@@ -72,7 +72,20 @@
       <pubDate>Thu, 27 Apr 2017 00:00:00 -0400</pubDate>
       
       <guid>/project/steal-and-repeat/</guid>
-      <description>&lt;p&gt;The Steal &amp;amp; Repeat Machine is a live looping tool based on direct manipulation of sound. The software interface, implemented in C++/Openframeworks, is presented below:&lt;/p&gt;
+      <description>&lt;p&gt;The Steal &amp;amp; Repeat Machine is a live looping tool based on direct manipulation of sound.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/9_LMArJO8rY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The Steal &amp;amp; Repeat Machine consists of an iPad physically extended via a plexiglass case equipped with an external sound card and two knob controls for phasing and feedback.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./plexiglass-open.jpg&#34; alt=&#34;image&#34; /&gt;
+&lt;img src=&#34;./power-and-audio.jpg&#34; alt=&#34;image&#34; /&gt;
+&lt;img src=&#34;./montage.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The iPad runs a software interface implemented in C++/Openframeworks, presented below:&lt;/p&gt;
 
 &lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -81,9 +94,34 @@
 
 &lt;/p&gt;&lt;/p&gt;
 
-&lt;p&gt;The tablet is physically embedded inside an acrylic case equipped with an external sound card and physical controls. These physical controls enable feedback, phasing, and pitch adjustments:&lt;/p&gt;
+&lt;p&gt;Some examples of the Steal &amp;amp; Repeat in action:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;./plexiglass.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/eemB6r9CdUg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/AHuMteYx6I0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/piKK5xgzKMg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/81gj6z6FFTI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
