@@ -69,7 +69,7 @@
     <item>
       <title>Empowering systems</title>
       <link>/tags/empowering-systems/</link>
-      <pubDate>Wed, 21 Nov 2018 15:58:26 -0500</pubDate>
+      <pubDate>Fri, 05 Jul 2019 15:58:26 -0500</pubDate>
       
       <guid>/tags/empowering-systems/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>End-User Programming</title>
       <link>/tags/end-user-programming/</link>
-      <pubDate>Wed, 21 Nov 2018 15:58:26 -0500</pubDate>
+      <pubDate>Fri, 05 Jul 2019 15:58:26 -0500</pubDate>
       
       <guid>/tags/end-user-programming/</guid>
       <description></description>
@@ -168,7 +168,7 @@
     <item>
       <title>PhD</title>
       <link>/tags/phd/</link>
-      <pubDate>Wed, 21 Nov 2018 15:58:26 -0500</pubDate>
+      <pubDate>Fri, 05 Jul 2019 15:58:26 -0500</pubDate>
       
       <guid>/tags/phd/</guid>
       <description></description>
@@ -186,9 +186,18 @@
     <item>
       <title>Responsive Environments</title>
       <link>/tags/responsive-environments/</link>
-      <pubDate>Wed, 21 Nov 2018 15:58:26 -0500</pubDate>
+      <pubDate>Fri, 05 Jul 2019 15:58:26 -0500</pubDate>
       
       <guid>/tags/responsive-environments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StateSynth</title>
+      <link>/tags/statesynth/</link>
+      <pubDate>Fri, 05 Jul 2019 15:58:26 -0500</pubDate>
+      
+      <guid>/tags/statesynth/</guid>
       <description></description>
     </item>
     
@@ -204,7 +213,7 @@
     <item>
       <title>ZenStates</title>
       <link>/tags/zenstates/</link>
-      <pubDate>Wed, 21 Nov 2018 15:58:26 -0500</pubDate>
+      <pubDate>Fri, 05 Jul 2019 15:58:26 -0500</pubDate>
       
       <guid>/tags/zenstates/</guid>
       <description></description>
