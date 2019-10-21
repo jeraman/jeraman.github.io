@@ -18,9 +18,9 @@
       <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/statesynth/</guid>
-      <description>StateSynth is a direct music authoring system where the keyboard becomes a central programming primitive. As a result, musicians can easily, for example: use intervals to dynamically control the delay time of a sinusoidal oscillator; or yet play specific chords to switch between different synthesizer presets.
-StateSynth uses ZenStates as specification model:
-  </description>
+      <description>Musicians devote years developing instrumental skills to achieve mastery of musical instruments. Yet, domain-specific end-user programming environments remain (i) often centered on mouse and keyboard as primitive input method and (ii) poorly designed for incorporating these expert instrumental skills as input.
+Attempting to explore this issue, I proposed the StateSynth.
+StateSynth is a direct manipulation-based music authoring environment where the keyboard becomes a central programming primitive, empowering musicians to build personal interactive musical tools based on their keyboard skills.</description>
     </item>
     
     <item>

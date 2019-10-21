@@ -54,15 +54,94 @@
       <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/statesynth/</guid>
-      <description>&lt;p&gt;StateSynth is a direct music authoring system where the keyboard becomes a central programming primitive. As a result, musicians can easily, for example: use intervals to dynamically control the delay time of a sinusoidal oscillator; or yet play specific chords to switch between different synthesizer presets.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;StateSynth uses &lt;em&gt;ZenStates&lt;/em&gt; as specification model:&lt;/p&gt;
+&lt;!--StateSynth is a direct music authoring system where the keyboard becomes a central programming primitive. As a result, musicians can easily, for example: use intervals to dynamically control the delay time of a sinusoidal oscillator; or yet play specific chords to switch between different synthesizer presets.--&gt;
+
+&lt;p&gt;Musicians devote years developing instrumental skills to achieve mastery of musical instruments. Yet, domain-specific end-user programming environments remain (i) often centered on mouse and keyboard as primitive input method and (ii) poorly designed for incorporating these expert instrumental skills as input.&lt;/p&gt;
+
+&lt;p&gt;Attempting to explore this issue, I proposed the &lt;em&gt;StateSynth&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;StateSynth is a direct manipulation-based  music authoring environment  where the keyboard becomes a central programming primitive, empowering musicians to build personal interactive musical tools based on their keyboard skills. For example:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/_FXKXNEQUaw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;./work-session-2.png&#34; alt=&#34;image&#34; /&gt;
+&lt;img src=&#34;./blackboard-transparent.png&#34; alt=&#34;image&#34; /&gt;
+&lt;img src=&#34;./intro-statesynth.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;how-it-works&#34;&gt;How it works?&lt;/h2&gt;
+
+&lt;p&gt;StateSynth uses a visual specification model based on hierarchical finite-states machines that was developed as part of my Ph.D. (details &lt;a href=&#34;https://jeraman.info/publication/zenstates-2018/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;). The model is called &lt;em&gt;ZenStates&lt;/em&gt;:&lt;/p&gt;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/gpOTCRI_Ifo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+
+&lt;p&gt;&lt;/p&gt;
+A detailed introduction to StateSynth can be found on the next videos:&lt;/p&gt;
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/KFbYJglFdVA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/V-bdST6PN4I&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/rVEK4iP4Kmo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/-hQYRDUVzsM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/NULiXKwJn_M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;musical-examples&#34;&gt;Musical Examples&lt;/h2&gt;
+
+&lt;p&gt;Some musical experiments fully developed with StateSynth are:
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/RH5ERSNWKrg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;early-sketches&#34;&gt;Early sketches&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;./ideas.png&#34; alt=&#34;image&#34; /&gt;
+&lt;img src=&#34;./prototype1-1.jpg&#34; alt=&#34;image&#34; /&gt;
+&lt;img src=&#34;./prototype1-2.jpg&#34; alt=&#34;image&#34; /&gt;
+&lt;img src=&#34;./prototype1-3.jpg&#34; alt=&#34;image&#34; /&gt;
+&lt;img src=&#34;./prototype1-4.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;StateSynth is open source, implemented in Java, using &lt;a href=&#34;http://processing.org&#34; target=&#34;_blank&#34;&gt;Processing&lt;/a&gt; as library for the graphics, &lt;a href=&#34;https://github.com/ddf/Minim&#34; target=&#34;_blank&#34;&gt;Minim&lt;/a&gt; for sound synthesis, and
+&lt;a href=&#34;http://www.jfugue.org/&#34; target=&#34;_blank&#34;&gt;JFugue&lt;/a&gt; for MIDI and music theory parsing. You can find more info about the project on my &lt;a href=&#34;https://jeraman.info/publication/thesis-2019/&#34; target=&#34;_blank&#34;&gt;Ph.D. thesis&lt;/a&gt; (Chapter 6). Other related links are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/jeraman/zenstates-paper-vlhcc2018/wiki/Documenting-the-design-process&#34; target=&#34;_blank&#34;&gt;Documenting ZenStates&amp;rsquo; design process&lt;/a&gt;;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/jeraman/unnamed-02&#34; target=&#34;_blank&#34;&gt;Source code (c.f., comments within the code)&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
