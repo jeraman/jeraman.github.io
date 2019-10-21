@@ -56,11 +56,10 @@
       <guid>/project/statesynth/</guid>
       <description>
 
-&lt;!--StateSynth is a direct music authoring system where the keyboard becomes a central programming primitive. As a result, musicians can easily, for example: use intervals to dynamically control the delay time of a sinusoidal oscillator; or yet play specific chords to switch between different synthesizer presets.--&gt;
+&lt;!--StateSynth is a direct music authoring system where the keyboard becomes a central programming primitive. As a result, musicians can easily, for example: use intervals to dynamically control the delay time of a sinusoidal oscillator; or yet play specific chords to switch between different synthesizer presets.
+Musicians devote years developing instrumental skills to achieve mastery of musical instruments. Yet, domain-specific end-user programming environments remain (i) often centered on mouse and keyboard as primitive input method and (ii) poorly designed for incorporating these expert instrumental skills as input.
 
-&lt;p&gt;Musicians devote years developing instrumental skills to achieve mastery of musical instruments. Yet, domain-specific end-user programming environments remain (i) often centered on mouse and keyboard as primitive input method and (ii) poorly designed for incorporating these expert instrumental skills as input.&lt;/p&gt;
-
-&lt;p&gt;Attempting to explore this issue, I proposed the &lt;em&gt;StateSynth&lt;/em&gt;.&lt;/p&gt;
+Attempting to explore this issue, I proposed the _StateSynth_.--&gt;
 
 &lt;p&gt;StateSynth is a direct manipulation-based  music authoring environment  where the keyboard becomes a central programming primitive, empowering musicians to build personal interactive musical tools based on their keyboard skills. For example:&lt;/p&gt;
 
@@ -129,7 +128,6 @@ A detailed introduction to StateSynth can be found on the next videos:&lt;/p&gt;
 &lt;h2 id=&#34;early-sketches&#34;&gt;Early sketches&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;./ideas.png&#34; alt=&#34;image&#34; /&gt;
-&lt;img src=&#34;./prototype1-1.jpg&#34; alt=&#34;image&#34; /&gt;
 &lt;img src=&#34;./prototype1-2.jpg&#34; alt=&#34;image&#34; /&gt;
 &lt;img src=&#34;./prototype1-3.jpg&#34; alt=&#34;image&#34; /&gt;
 &lt;img src=&#34;./prototype1-4.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
@@ -246,13 +244,10 @@ A detailed introduction to StateSynth can be found on the next videos:&lt;/p&gt;
 
 &lt;!--When Youtube and Facebook Live become _circuits_, what is an _insertion_?--&gt;
 
-&lt;p&gt;&amp;ldquo;Insertions into Mediatic Circuits&amp;rdquo; were a series of short media interventions (insertions) where social networks&amp;rsquo; live video streams were copied, modified, and finally streamed back to social networks in realtime, while the original live stream still occurred. The new stream was almost identical to the original one, except for the insertion itself.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Insertions into Mediatic Circuits&amp;rdquo; were a series of short media interventions (insertions) where social networks&amp;rsquo; live video streams were copied, modified, and finally streamed back to social networks in realtime, while the original live stream still occurred. The new stream was almost identical to the original one, except for the insertion itself. For example:&lt;/p&gt;
 
-&lt;p&gt;Collaborators and I have put together some software tools to work with such insertions. More information is available on &lt;a href=&#34;https://github.com/insertions&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
-
-&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/188303561&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
  &lt;/div&gt;
@@ -267,6 +262,19 @@ A detailed introduction to StateSynth can be found on the next videos:&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/PiFNaQoV3cQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;software-tools&#34;&gt;Software tools&lt;/h2&gt;
+
+&lt;p&gt;Collaborators and I have put together some software tools to create new insertions. These software tools are available on a &lt;a href=&#34;https://github.com/insertions&#34; target=&#34;_blank&#34;&gt;Github repository&lt;/a&gt;. One tool I particularly like is the &lt;em&gt;Insertion Guerrilla Kit&lt;/em&gt;: a portable RaspberryPi-based module to perform insertions on live TV as follows:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./insertion-guerrilla-kit.jpg&#34; alt=&#34;schematics&#34; /&gt;
+&lt;img src=&#34;./kit.jpg&#34; alt=&#34;gear&#34; /&gt;
+&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/H4oKyC9oWYM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 

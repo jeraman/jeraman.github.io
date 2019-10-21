@@ -18,9 +18,10 @@
       <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/statesynth/</guid>
-      <description>Musicians devote years developing instrumental skills to achieve mastery of musical instruments. Yet, domain-specific end-user programming environments remain (i) often centered on mouse and keyboard as primitive input method and (ii) poorly designed for incorporating these expert instrumental skills as input.
-Attempting to explore this issue, I proposed the StateSynth.
-StateSynth is a direct manipulation-based music authoring environment where the keyboard becomes a central programming primitive, empowering musicians to build personal interactive musical tools based on their keyboard skills.</description>
+      <description>StateSynth is a direct manipulation-based music authoring environment where the keyboard becomes a central programming primitive, empowering musicians to build personal interactive musical tools based on their keyboard skills. For example:
+  How it works? StateSynth uses a visual specification model based on hierarchical finite-states machines that was developed as part of my Ph.D. (details here). The model is called ZenStates:
+  
+A detailed introduction to StateSynth can be found on the next videos:</description>
     </item>
     
     <item>
