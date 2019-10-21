@@ -269,7 +269,7 @@ A detailed introduction to StateSynth can be found on the next videos:&lt;/p&gt;
 
 &lt;p&gt;Collaborators and I have put together some software tools to create new insertions. These software tools are available on a &lt;a href=&#34;https://github.com/insertions&#34; target=&#34;_blank&#34;&gt;Github repository&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;One tool I particularly like is the &lt;em&gt;Insertion Guerrilla Kit&lt;/em&gt;: a portable RaspberryPi-based module to perform local insertions using public broadcast TV channels. The kit works as follows:&lt;/p&gt;
+&lt;p&gt;One tool I particularly like is the &lt;em&gt;Insertion Guerrilla Kit&lt;/em&gt;: a portable RaspberryPi-based module to perform insertions on targeted TV devices with public broadcast TV channels. The kit works as follows:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;./insertion-guerrilla-kit.jpg&#34; alt=&#34;schematics&#34; /&gt;
 &lt;img src=&#34;./kit.jpg&#34; alt=&#34;gear&#34; /&gt;
